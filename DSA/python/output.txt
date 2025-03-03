@@ -1,0 +1,2 @@
+Hi, This is a sample file meant to read by file object.
+Let's see how it works.
