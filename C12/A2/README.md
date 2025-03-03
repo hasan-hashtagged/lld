@@ -1,0 +1,1 @@
+# Duck simulator adding adapter to adapt for goose.

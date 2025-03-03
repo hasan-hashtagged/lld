@@ -1,0 +1,1 @@
+# Simple Duck simulator using Strategy Pattern

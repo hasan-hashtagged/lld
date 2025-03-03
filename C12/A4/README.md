@@ -1,0 +1,1 @@
+# Using Factory pattern to encapsulate duck creation.
